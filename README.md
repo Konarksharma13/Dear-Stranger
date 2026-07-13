@@ -1,4 +1,4 @@
-# Dear Stranger — A Page for You
+# [Dear Stranger](https://dear-strangers.vercel.app/)
 
 This website was never meant to be just another page on the internet.
 
@@ -47,6 +47,10 @@ The aesthetic is soft, handwritten, and reflective, as if the words were written
 - a place to keep meaningful pages close
 - a way to leave behind your own page for someone else
 
+## Demo
+<img width="1700" height="889" alt="Screenshot 2026-07-13 at 12 14 41 PM" src="https://github.com/user-attachments/assets/3df5df93-a60d-42a7-a272-c022e0fd3460" />
+<img width="1693" height="882" alt="Screenshot 2026-07-13 at 12 16 16 PM" src="https://github.com/user-attachments/assets/fa1b8e38-1b56-4117-8353-6a906b61e4c7" />
+
 ## Built with
 
 - Next.js
@@ -59,3 +63,17 @@ The aesthetic is soft, handwritten, and reflective, as if the words were written
 ```bash
 npm install
 npm run dev
+```
+
+Then open:
+```
+http://localhost:3000
+```
+
+## A final note
+This is more than a website.
+
+It is a small sanctuary. A quiet invitation. A page that hopes to meet you exactly where you are.
+
+If you are reading this, perhaps this is the kind of place your heart was looking for.
+
