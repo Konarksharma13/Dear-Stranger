@@ -63,11 +63,11 @@ const nothingYouCouldDo = Nothing_You_Could_Do({
 });
 
 export const metadata: Metadata = {
-  title: "Dear Stranger — A Page for You",
+  title: "Dear Stranger",
   description: "A quiet place on the internet. Read a handwritten letter from a stranger, or leave a page behind for someone you'll never meet. Pause, breathe, and feel just a little less alone.",
   keywords: ["Dear Stranger", "Mental Health", "Comfort", "Hope", "Peace", "Kindness", "Stranger Notes", "Library"],
   openGraph: {
-    title: "Dear Stranger — A Page for You",
+    title: "Dear Stranger",
     description: "A quiet place on the internet. Read a handwritten letter from a stranger, or leave a page behind.",
     type: "website",
     locale: "en_US",
