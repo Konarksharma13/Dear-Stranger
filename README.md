@@ -117,38 +117,19 @@ This project is my attempt to answer those questions.
 
 ---
 
-## 🛠️ Engineering Stack
+## 🛠 Built With
 
-### Frontend
-
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-
-### Animations
-
-- Framer Motion
-
-### Icons
-
-- React Icons
-
-### Deployment
-
-- Vercel
+**Next.js** • **React** • **Framer Motion** • **React Icons**
 
 ---
 
-## 📂 Project Structure
+## ⚡ Technical Highlights
 
-```text
-app/
-│
-├── public/
-├── scripts/
-└── src/
-```
+- Book-inspired reading experience focused on typography and whitespace.
+- Emotion-driven navigation that guides users through different categories of letters.
+- Component-based architecture for reusable reading pages and interactive UI elements.
+- Subtle animation patterns designed to enhance reflection without distracting from the content.
+- Responsive layouts that preserve the reading experience across devices.
 
 ---
 
@@ -177,16 +158,6 @@ Visit:
 ```
 http://localhost:3000
 ```
-
----
-
-## ⚡ Technical Highlights
-
-- Book-inspired reading experience focused on typography and whitespace.
-- Emotion-driven navigation that guides users through different categories of letters.
-- Component-based architecture for reusable reading pages and interactive UI elements.
-- Subtle animation patterns designed to enhance reflection without distracting from the content.
-- Responsive layouts that preserve the reading experience across devices.
 
 ---
 
