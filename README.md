@@ -14,7 +14,7 @@ Sometimes we just need to know that someone, somewhere, once felt exactly the wa
 
 ---
 
-# ✨ Philosophy
+## ✨ Philosophy
 
 The internet has become louder.
 
@@ -32,7 +32,7 @@ It's built to maximize meaning.
 
 ---
 
-# 💡 The Problem
+## 💡 The Problem
 
 Most social platforms optimize for visibility and attention.
 
@@ -45,7 +45,7 @@ Dear Stranger creates an anonymous, judgment-free environment where kindness, en
 
 ---
 
-# 🚀 The Solution
+## 🚀 The Solution
 
 Dear Stranger recreates the feeling of opening a handwritten letter from someone you've never met.
 
@@ -59,7 +59,7 @@ Visitors can:
 
 ---
 
-# 🌟 Features
+## 🌟 Features
 
 ### 🤍 Emotion-Based Discovery
 
@@ -87,7 +87,7 @@ Smooth transitions and subtle interactions powered by Framer Motion to create a 
 
 ---
 
-# ❤️ Why I Built This
+## ❤️ Why I Built This
 
 Technology doesn't always have to solve productivity problems.
 
@@ -105,7 +105,7 @@ This project is my attempt to answer those questions.
 
 ---
 
-# 🖼️ Preview
+## 🖼️ Preview
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/3df5df93-a60d-42a7-a272-c022e0fd3460" width="900"/>
@@ -117,30 +117,30 @@ This project is my attempt to answer those questions.
 
 ---
 
-# 🛠️ Engineering Stack
+## 🛠️ Engineering Stack
 
-## Frontend
+### Frontend
 
 - Next.js
 - React
 - TypeScript
 - Tailwind CSS
 
-## Animations
+### Animations
 
 - Framer Motion
 
-## Icons
+### Icons
 
 - React Icons
 
-## Deployment
+### Deployment
 
 - Vercel
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```text
 app/
@@ -152,21 +152,21 @@ app/
 
 ---
 
-# 🚀 Getting Started
+## 🚀 Getting Started
 
-## Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/Konarksharma13/Dear-Stranger.git
 ```
 
-## Install dependencies
+### Install dependencies
 
 ```bash
 npm install
 ```
 
-## Start the development server
+### Start the development server
 
 ```bash
 npm run dev
@@ -180,21 +180,17 @@ http://localhost:3000
 
 ---
 
-# 🎯 Future Roadmap
+## ⚡ Technical Highlights
 
-- [ ] User authentication
-- [ ] Community moderation
-- [ ] AI-generated comforting letters
-- [ ] Daily reflection journal
-- [ ] Multi-language support
-- [ ] Voice narration
-- [ ] Progressive Web App (PWA)
-- [ ] Offline reading mode
-- [ ] Accessibility improvements (WCAG)
+- Book-inspired reading experience focused on typography and whitespace.
+- Emotion-driven navigation that guides users through different categories of letters.
+- Component-based architecture for reusable reading pages and interactive UI elements.
+- Subtle animation patterns designed to enhance reflection without distracting from the content.
+- Responsive layouts that preserve the reading experience across devices.
 
 ---
 
-# 📚 Lessons Learned
+## 📚 Lessons Learned
 
 Building Dear Stranger reinforced an important idea:
 
@@ -212,7 +208,7 @@ This project helped me improve my understanding of:
 
 ---
 
-# 🤝 Contributing
+## 🤝 Contributing
 
 Contributions, suggestions, and ideas are always welcome.
 
@@ -228,13 +224,13 @@ If you discover a bug or have an idea for improvement, feel free to open an issu
 
 ---
 
-# 📄 License
+## 📄 License
 
 This project is licensed under the **MIT License**.
 
 ---
 
-# 🌿 One Last Thing
+## 🌿 One Last Thing
 
 If even one page from **Dear Stranger** helps someone pause, breathe, or feel understood then this project has already succeeded.
 
